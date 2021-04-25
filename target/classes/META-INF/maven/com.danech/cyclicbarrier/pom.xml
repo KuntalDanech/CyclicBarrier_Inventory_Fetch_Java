@@ -1,0 +1,12 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.danech</groupId>
+  <artifactId>cyclicbarrier</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>CyclicBarrier_Inventory_Fetch</name>
+  <description>Cyclic barrier is a concurrency concept in java. Where multiple threads can be executed simultaneously and at some point when all thread finish their execution then one final Runnable thread will be executed to provide some business login in the thread.</description>
+  <properties>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
+</project>
